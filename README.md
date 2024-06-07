@@ -1,1 +1,1 @@
-# SummerInternINFY_sprinboard2024
+# SummerInternINFY_springboard2024
