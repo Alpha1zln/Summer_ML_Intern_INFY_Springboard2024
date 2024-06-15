@@ -1,0 +1,1 @@
+create six different types of graphs using matplotlib and seaborn. Each graph will use a different type of visualization:
