@@ -1,0 +1,14 @@
+Tasks - 
+1) change column names
+
+homepage - movie_url
+original_title - movie_title
+
+
+2)Finding and removing duplicate values(dataframes)
+
+3) checking of any null or empty values in dataframes and try to fetch and add that missing data using movie id from  tmdb api's
+
+4)check for any dataframes that has revenue as 0, average the revenue for the rest of dataframes and add it.
+
+5) finally convert that processed output(dataframes) to csv format
