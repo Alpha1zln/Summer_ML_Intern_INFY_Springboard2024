@@ -1,4 +1,4 @@
-# Summer_ML_Intern_INFY_Sprinboard2024
+# Summer_ML_Intern_INFY_Springboard2024
 
 MILESTONE 1 :: 
 Data Collection :
