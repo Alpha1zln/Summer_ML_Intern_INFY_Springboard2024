@@ -1,0 +1,5 @@
+Task3 ---
+
+Q1. convert release_date(string) to release_day,release_date,release_month(seperate columns,integer format)
+Q2. use one hot encoding for applicable columns
+Q3. convert to category datatype and to numerical form using pandas library for for applicable columns
