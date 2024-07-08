@@ -17,7 +17,7 @@
 # MILESTONE 2 :: 
 **Data Pre-processing  - DATA CLEANING, TRANSFORMATION, VISUALISATION**
 
-# Task1 [5 ques] :
+# Task 1  :
 **Data cleaning ::**
 1) change column names : homepage - movie_url, original_title - movie_title
 2)Finding and removing duplicate values(dataframes)
@@ -26,7 +26,7 @@
 5) finally convert that processed output(dataframes) to csv format
 
 
-# Task2 :
+# Task 2 :
 **Data Visualisation::**
 1. Create six different types of graphs using matplotlib and seaborn. Each graph will use a different type of visualization:
 
