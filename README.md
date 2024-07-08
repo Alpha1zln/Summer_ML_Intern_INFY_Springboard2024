@@ -15,10 +15,10 @@
 
 ***
 # MILESTONE 2 :: 
-**DATA CLEANING, NORMALISATION, VISUALISATION**
+**Data Pre-processing  - DATA CLEANING, TRANSFORMATION, VISUALISATION**
 
 # Task1 [5 ques] :
-**Data Pre-processing/cleaning ::**
+**Data cleaning ::**
 1) change column names : homepage - movie_url, original_title - movie_title
 2)Finding and removing duplicate values(dataframes)
 3) checking of any null or empty values in dataframes and try to fetch and add that missing data using movie id from  tmdb api's
@@ -32,7 +32,7 @@
 
 
 # Task 3 :
-**Data Normalisation::**
+**Data TRANSFORMATION::**
 1. convert release_date(string) to release_day,release_date,release_month(seperate columns,integer format)
 2. use one hot encoding for applicable columns(genres,spoken_languages,production_countries)
 3. convert to category datatype and to numerical form using pandas library for for applicable columns (status,original_language)
@@ -46,7 +46,7 @@ output csv file upload to google drive as  - tmdb_output(2nd milestone week 4).c
 ***
 # MILESTONE 3 :: 
 ** TEST DATA CLEANING**
-** TEST DATA NORMALIZATION**
+** TEST DATA TRANSFORMATION**
 ** TRAINING DATA PREDICTION**
 ** TEST DATA PREDICTION**
 
