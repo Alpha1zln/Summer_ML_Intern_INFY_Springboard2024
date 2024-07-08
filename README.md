@@ -8,7 +8,7 @@
 
 1: [100 movie id fetch using API  and download as csv] 
 
-Task 2 
+# Task 2 
 1 : [100 data pt.s for given 22 cols fetched using API with condition budget > 0 and download as csv]
 
 
@@ -42,12 +42,41 @@ output csv file upload to google drive as  - tmdb_output(2nd milestone week 4).c
 
 
 
+***
+# MILESTONE 3 :: 
+** TEST DATA CLEANING
+** TEST DATA NORMALIZATION
+** TRAINING DATA PREDICTION
+** TEST DATA PREDICTION
+
+Q1* take  movie_id,revenue and prediction_label columns from the prediction you did for  training data and convert into csv file(if u have split the train data remove it)
+
+Q2* read test data csv that is shared by Mentor
+
+Q3* do data normalization for test data
+
+Q4* check for any missing columns in test data(compare with training data) and add missing columns with null values
+
+Q5* take  movie_id, prediction_label columns from the prediction you did for  test data and convert into csv file
+
+Q6* upload these two csv files to google drive  and to github - ipynb file
+
+
+
+***
+# MILESTONE 4 :: 
+**UI CREATION
+**USER TEST DATA ENTERED, PREDICTION BY MODEL ON WEBPAGE
+
+Q1* Create a dict using test data, in vscode do predicion using pkl file [having saved model].
+
+Q2* UI CREATION - using flask, streamlit, pkl saved model - in vscode. And finally do prediction using entered data in UI.
+  
+
+
+
 ****
-All files uploaded in given GITHUB AND G DRV links. 
-
-
-
-
+****
 ****
 
 MI Internship - Infosys Springboard - SY
