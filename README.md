@@ -20,9 +20,13 @@
 # Task 1  :
 **Data cleaning ::**
 1) change column names : homepage - movie_url, original_title - movie_title
+   
 2)Finding and removing duplicate values(dataframes)
+
 3) checking of any null or empty values in dataframes and try to fetch and add that missing data using movie id from  tmdb api's
+   
 4)check for any dataframes that has revenue as 0, average the revenue for the rest of dataframes and add it.
+
 5) finally convert that processed output(dataframes) to csv format
 
 
@@ -62,10 +66,7 @@ Q5* take  movie_id, prediction_label columns from the prediction you did for  te
 
 Q6* upload these two csv files to google drive  and to github - ipynb file
 
-
-
 ***
-# MILESTONE 4 :: 
 **UI CREATION**
 
 **USER TEST DATA ENTERED, PREDICTION BY MODEL ON WEBPAGE**
@@ -73,9 +74,16 @@ Q6* upload these two csv files to google drive  and to github - ipynb file
 Q1* Create a dict using test data, in vscode do predicion using pkl file [having saved model].
 
 Q2* UI CREATION - using flask, streamlit, pkl saved model - in vscode. And finally do prediction using entered data in UI.
-  
 
 
+***
+# MILESTONE 4 :: 
+
+# Task 1 : 
+Documentation creation
+
+# Task 2 : 
+Project presentation - group task
 
 ****
 ****
